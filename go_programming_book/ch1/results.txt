@@ -1,0 +1,4 @@
+Get "https:///localhost": http: no Host in request URL
+0.33s    13015  https://google.com
+0.45s   113056  https://office.com
+0.49s   215245  https://facebook.com
